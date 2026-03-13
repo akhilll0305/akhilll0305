@@ -83,18 +83,82 @@ akhil = {
 
 <div align="center">
 
-<a href="https://github.com/akhilll0305/LUMEN-FINAL-PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=LUMEN-FINAL-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/akhilll0305/Study_AI_Complete_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=Study_AI_Complete_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/akhilll0305/LLM-Course-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=LLM-Course-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Siddharthpandey20/Floor_Plan_Generator_with_Transformer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharthpandey20&repo=Floor_Plan_Generator_with_Transformer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
+<!-- LUMEN -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[💰 LUMEN — AI Finance Platform](https://github.com/akhilll0305/LUMEN-FINAL-PROJECT)** 🥈 *2nd Place — Hack-A-Sol 2025*
+
+RAG-based conversational analytics over 1,000+ transactions using FAISS + Sentence Transformers. Real-time SMS ingestion via n8n webhooks (UPI, IMPS, NEFT). Sub-second semantic search with Gemini responses.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[🎓 StudyAI — AI Learning Platform](https://github.com/akhilll0305/Study_AI_Complete_Project)** 🥉 *3rd Place — APIhub.digital 2025*
+
+Converts PDFs, images, audio, video → flashcards, quizzes, summaries using Gemini + LangChain. Hybrid retrieval (FAISS + BM25) for Document Q&A. Persistent workflows + OAuth2/JWT auth.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logo=meta&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📚 DocuSense — Research Paper RAG](https://github.com/akhilll0305/LLM-Course-Project)**
+
+End-to-end RAG platform for academic PDFs. Qdrant vector store + BM25 + cross-encoder reranking. Custom citation engine enforcing 100% source traceability. Multi-paper comparison & conflict detection.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[📐 ConsFormer — Floor Plan Generator](https://github.com/Siddharthpandey20/Floor_Plan_Generator_with_Transformer)** 📄 *Published — MMCITRE 2025*
+
+Hybrid CP-SAT constraint solver + ConsFormer Transformer for spatial layout generation. Rooms modeled as graph nodes, adjacencies as edges. 100% hard-constraint satisfaction on benchmark layouts.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🚦 Multi-Agent DDQN Traffic Control](https://github.com/akhilll0305)**
+
+Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Transfer learning from single-agent → 4 agents: 68% better performance with zero extra training. 94.3% reduction in wait time vs fixed-time baseline.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SUMO](https://img.shields.io/badge/SUMO-Simulator-gray?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🔒 Something is brewing...](https://github.com/akhilll0305)**
+
+> *"The best projects are the ones you build because you felt the pain yourself."*
+
+**Stealth mode. Dropping soon. 👀**
+
+Stay tuned.
+
+</td>
+</tr>
+</table>
 
 </div>
 
