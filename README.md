@@ -1,34 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akhil%20Reddy&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agent%20Systems%20%7C%20LLM%20Infrastructure&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Akhil%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Agent%20Systems%20%7C%20LLM%20Infrastructure&descAlignY=60&descColor=a78bfa&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+systems+that+actually+work;2nd+yr+%40+IIIT+Naya+Raipur;Published+%40+MMCITRE+2025;Open+source+contributor+%E2%80%94+OpenFang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+systems+that+actually+work+%F0%9F%9A%80;Published+researcher+%40+MMCITRE+2025+%F0%9F%93%84;2x+National+Hackathon+winner+%F0%9F%8F%86;Deep+RL+%7C+LLM+Systems+%7C+RAG+Pipelines;Shipping+real+products+as+a+2nd+year+student)](https://git.io/typing-svg)
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=akhilll0305&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-akhil-reddy-728890319)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akhilreddy007@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akhilreddy007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilll0305)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=akhilll0305&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<br/>
 
-### 🧠 Who am I?
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akhilll0305&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+
+### `> whoami`
 
 ```python
 akhil = {
-    "name"      : "Rajgire Akhil Reddy",
-    "college"   : "IIIT Naya Raipur (DS&AI, 2024–28)",
-    "focus"     : ["Agent Systems", "LLM Infrastructure",
-                   "RAG Pipelines", "Deep RL"],
-    "published" : "MMCITRE 2025 — ConsFormer",
-    "building"  : "Stealth AI tooling project 👀",
-    "status"    : "Shipping > Watching tutorials",
+  "name"      : "Rajgire Akhil Reddy",
+  "college"   : "IIIT Naya Raipur · DS&AI · 2024–28",
+  "focus"     : [
+                  "Agent Systems",
+                  "LLM Infrastructure",
+                  "Deep Reinforcement Learning",
+                  "RAG Pipelines & Retrieval",
+                ],
+  "published" : "MMCITRE 2025 — ConsFormer",
+  "building"  : "Something big. Dropping soon 👀",
+  "philosophy": "Shipping > Watching tutorials",
+  "status"    : "🟢 Open to internships & collabs",
 }
 ```
 
@@ -36,105 +47,196 @@ akhil = {
 
 ---
 
-## 🏆 Wins
+<br/>
+
+## 🏆 Hall of Fame
 
 <div align="center">
 
-| 🥈 2nd Place | 🥉 3rd Place | 📄 Published |
-|:---:|:---:|:---:|
-| Hack-A-Sol 2025 | APIhub.digital 2025 | MMCITRE 2025 |
-| LUMEN — AI Finance | StudyAI Platform | ConsFormer |
-| *National Level* | *National Level* | *International* |
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🥈_2nd_Place-Hack--A--Sol_2025-gold?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <b>LUMEN — AI Finance Platform</b><br/>
+      <sub>National Level · IIIT NR × GDG</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🥉_3rd_Place-APIhub.digital_2025-cd7f32?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <b>StudyAI — Learning Platform</b><br/>
+      <sub>National Level</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/📄_Published-MMCITRE_2025-a78bfa?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <b>ConsFormer Floor Plan Generator</b><br/>
+      <sub>International Conference</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
+<br/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/akhilll0305/LUMEN-FINAL-PROJECT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=LUMEN-FINAL-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=LUMEN-FINAL-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/akhilll0305/Study_AI_Complete_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=Study_AI_Complete_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=Study_AI_Complete_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/akhilll0305/LLM-Course-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=LLM-Course-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Siddharthpandey20/Floor_Plan_Generator_with_Transformer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharthpandey20&repo=Floor_Plan_Generator_with_Transformer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 
 </div>
 
 <br/>
 
-### 🔬 Deep Dives
-
-| Project | What | Key Result |
-|---|---|---|
-| 🚦 **Multi-Agent DDQN Traffic Control** | Double DQN + SUMO simulator, 2×2 grid, transfer learning | **94.3% reduction** in wait time vs fixed-time baseline |
-| 📐 **ConsFormer Floor Plan Generator** | CP-SAT + Transformer, graph-based room modeling | **100% constraint satisfaction** — Published MMCITRE 2025 |
-| 📚 **DocuSense — Research RAG** | Qdrant + BM25 + cross-encoder reranking | **100% source traceability**, answers in <3s |
-| 💰 **LUMEN — Finance AI** | RAG over 1,000+ transactions, n8n SMS ingestion | Sub-second semantic search, 🥈 National Hackathon |
-
----
-
-## 🛠️ Tech Stack
+### 📊 Project Metrics at a Glance
 
 <div align="center">
 
-**Core**
+| Project | Category | Key Achievement |
+|:---|:---:|---:|
+| 🚦 **Multi-Agent DDQN Traffic Control** | Deep RL | **94.3%** wait time reduction vs fixed-time baseline |
+| 📐 **ConsFormer Floor Plan Generator** | Research | **100%** constraint satisfaction · Published MMCITRE 2025 |
+| 📚 **DocuSense — Research RAG** | LLM Systems | **100%** source traceability · answers in **<3s** |
+| 💰 **LUMEN — Finance AI** | RAG + Agents | Sub-second semantic search over **1,000+** transactions |
+| 🎓 **StudyAI — Learning Platform** | Multimodal AI | Hybrid retrieval · **1,000+** document chunks per session |
+
+</div>
+
+---
+
+<br/>
+
+## 🛠️ Arsenal
+
+<div align="center">
+
+**Languages & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**AI / LLMs**
+<br/>
+
+**LLMs & Agent Systems**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**ML / RL**
+<br/>
+
+**ML & Deep RL**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+<br/>
+
+**RAG & Retrieval**
+
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+<br/>
 
 **Infra & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Stats
+<br/>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilll0305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
-<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=akhilll0305&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilll0305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=akhilll0305&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilll0305&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed" width="95%"/>
 
 </div>
 
 ---
+
+<br/>
 
 ## 🌱 Currently
 
+<div align="center">
+
 ```
-▸ Finishing:   Agentic AI + MLOps/LLMOps courses
-▸ Building:    Stealth AI tooling project (dropping soon 👀)
-▸ Exploring:   Agent observability, decision tracing, LLM evals
+┌─────────────────────────────────────────────────────────┐
+│                   AKHIL'S DASHBOARD                     │
+├──────────────────┬──────────────────────────────────────┤
+│ 📚 Learning      │ Agentic AI · MLOps · LLMOps          │
+│ 🔨 Building      │ Stealth AI tooling project 👀        │
+│ 🔍 Exploring     │ Agent observability · LLM evals      │
+│ 🎯 Target        │ AI Engineer internship · Research    │
+│ 💡 Philosophy    │ Execute > Accumulate                  │
+└──────────────────┴──────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
+<br/>
+
+## ⚡ Fun Fact
+
+> *I opened Instagram to "take a 5-minute break" while training my DDQN agents.*
+> *The agents converged. I was still scrolling.*
+> *The agents are more disciplined than me. Working on it. 😅*
+
+---
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+### 💬 Let's build something real
 
-*Shipping real products. Building in public. Always learning.*
+**Open to:** AI Engineer internships · ML Research collaborations · Agent systems projects
 
-**Open to:** AI Engineer internships · Research collaborations · Open source
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-akhil-reddy-728890319)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akhilreddy007@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
