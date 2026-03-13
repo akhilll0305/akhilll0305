@@ -89,7 +89,7 @@ akhil = {
 <a href="https://github.com/akhilll0305/Study_AI_Complete_Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=Study_AI_Complete_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/akhilll0305/LLM-Course-Project">
+<a href="https://github.com/akhilll0305/LLM-Course-Project.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilll0305&repo=LLM-Course-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Siddharthpandey20/Floor_Plan_Generator_with_Transformer">
