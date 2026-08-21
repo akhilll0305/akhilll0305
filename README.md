@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+systems+that+actually+work+%F0%9F%9A%80;Published+researcher+%40+MMCITRE+2025+%F0%9F%93%84;2x+National+Hackathon+winner+%F0%9F%8F%86;Deep+RL+%7C+LLM+Systems+%7C+RAG+Pipelines;Shipping+real+products+as+a+2nd+year+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+systems+that+actually+work+%F0%9F%9A%80;Published+researcher+%40+MMCITRE+2025+%F0%9F%93%84;2x+National+Hackathon+winner+%F0%9F%8F%86;Deep+RL+%7C+LLM+Systems+%7C+RAG+Pipelines;Shipping+real+products+as+a+3nd+year+student)](https://git.io/typing-svg)
 
 <br/>
 
