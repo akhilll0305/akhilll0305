@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+systems+that+actually+work+%F0%9F%9A%80;Published+researcher+%40+MMCITRE+2025+%F0%9F%93%84;2x+National+Hackathon+winner+%F0%9F%8F%86;Deep+RL+%7C+LLM+Systems+%7C+RAG+Pipelines;Shipping+real+products+as+a+3nd+year+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+systems+that+actually+work+%F0%9F%9A%80;Paper+accepted+%40+MMCITRE+2025+%F0%9F%93%84;2x+National+Hackathon+placements+%F0%9F%8F%86;Deep+RL+%7C+LLM+Systems+%7C+RAG+Pipelines;Shipping+real+products+as+a+3rd+year+student)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,8 +36,8 @@ akhil = {
                   "Deep Reinforcement Learning",
                   "RAG Pipelines & Retrieval",
                 ],
-  "published" : "MMCITRE 2025 — ConsFormer",
-  "building"  : "Something big. Dropping soon 👀",
+  "research"  : "Paper accepted — MMCITRE 2025 (ConsFormer)",
+  "building"  : "Axon — agent decision observability",
   "philosophy": "Shipping > Watching tutorials",
   "status"    : "🟢 Open to internships & collabs",
 }
@@ -66,7 +66,7 @@ akhil = {
       <sub>National Level</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/📄_Published-MMCITRE_2025-a78bfa?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <img src="https://img.shields.io/badge/📄_Accepted-MMCITRE_2025-a78bfa?style=for-the-badge&labelColor=1a1a2e" /><br/>
       <b>ConsFormer Floor Plan Generator</b><br/>
       <sub>International Conference</sub>
     </td>
@@ -102,7 +102,7 @@ RAG-based conversational analytics over 1,000+ transactions using FAISS + Senten
 
 **[🎓 StudyAI — AI Learning Platform](https://github.com/akhilll0305/Study_AI_Complete_Project)** 🥉 *3rd Place — APIhub.digital 2025*
 
-Converts PDFs, images, audio, video → flashcards, quizzes, summaries using Gemini + LangChain. Hybrid retrieval (FAISS + BM25) for Document Q&A. Persistent workflows + OAuth2/JWT auth.
+Converts PDFs, images, audio, video → flashcards, quizzes, summaries using Gemini + LangChain. Hybrid retrieval (FAISS + BM25) for Document Q&A. Persistent workflows + OAuth2/JWT auth. *Built as part of a 4-person team.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -114,30 +114,17 @@ Converts PDFs, images, audio, video → flashcards, quizzes, summaries using Gem
 <tr>
 <td width="50%" valign="top">
 
-**[📚 DocuSense — Research Paper RAG](https://github.com/akhilll0305/LLM-Course-Project)**
+**[📐 ConsFormer — Floor Plan Generator](https://github.com/akhilll0305/Floor_Plan_Generator_with_Transformer)** 📄 *Accepted — MMCITRE 2025*
 
-End-to-end RAG platform for academic PDFs. Qdrant vector store + BM25 + cross-encoder reranking. Custom citation engine enforcing 100% source traceability. Multi-paper comparison & conflict detection.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[📐 ConsFormer — Floor Plan Generator](https://github.com/Siddharthpandey20/Floor_Plan_Generator_with_Transformer)** 📄 *Published — MMCITRE 2025*
-
-Hybrid CP-SAT constraint solver + ConsFormer Transformer for spatial layout generation. Rooms modeled as graph nodes, adjacencies as edges. 100% hard-constraint satisfaction on benchmark layouts.
+Hybrid CP-SAT constraint solver + ConsFormer Transformer for spatial layout generation. Rooms modeled as graph nodes, adjacencies as edges. 100% hard-constraint satisfaction on benchmark layouts. Presented at the conference in person.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**[🚦 Multi-Agent DDQN Traffic Control](https://github.com/akhilll0305)**
+**[🚦 Multi-Agent DDQN Traffic Control](https://github.com/akhilll0305/RL-Based-Multi-Agent-Traffic-control-system)**
 
 Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Transfer learning from single-agent → 4 agents: 68% better performance with zero extra training. 94.3% reduction in wait time vs fixed-time baseline.
 
@@ -146,15 +133,15 @@ Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Trans
 ![SUMO](https://img.shields.io/badge/SUMO-Simulator-gray?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
 
-**[🔒 Something is brewing...](https://github.com/akhilll0305)**
+**[🔒 Axon — Agent Decision Observability](https://github.com/akhilll0305/Axon)**
 
-> *"The best projects are the ones you build because you felt the pain yourself."*
+> *A decision-level debugger for AI agents — captures and replays the reasoning behind every choice an agent makes, not just the calls it made.*
 
-**Stealth mode. Dropping soon. 👀**
-
-Stay tuned.
+**In active development.**
 
 </td>
 </tr>
@@ -171,8 +158,7 @@ Stay tuned.
 | Project | Category | Key Achievement |
 |:---|:---:|---:|
 | 🚦 **Multi-Agent DDQN Traffic Control** | Deep RL | **94.3%** wait time reduction vs fixed-time baseline |
-| 📐 **ConsFormer Floor Plan Generator** | Research | **100%** constraint satisfaction · Published MMCITRE 2025 |
-| 📚 **DocuSense — Research RAG** | LLM Systems | **100%** source traceability · answers in **<3s** |
+| 📐 **ConsFormer Floor Plan Generator** | Research | **100%** constraint satisfaction · Accepted MMCITRE 2025 |
 | 💰 **LUMEN — Finance AI** | RAG + Agents | Sub-second semantic search over **1,000+** transactions |
 | 🎓 **StudyAI — Learning Platform** | Multimodal AI | Hybrid retrieval · **1,000+** document chunks per session |
 
@@ -261,8 +247,7 @@ Stay tuned.
 │                   AKHIL'S DASHBOARD                     │
 ├──────────────────┬──────────────────────────────────────┤
 │ 📚 Learning      │ Agentic AI · MLOps · LLMOps          │
-│ 🔨 Building      │ Stealth AI tooling project 👀        │
-│ 🔍 Exploring     │ Agent observability · LLM evals      │
+│ 🔨 Building      │ Axon — agent observability tooling   │
 │ 🎯 Target        │ AI Engineer internship · Research    │
 │ 💡 Philosophy    │ Execute > Accumulate                  │
 └──────────────────┴──────────────────────────────────────┘
