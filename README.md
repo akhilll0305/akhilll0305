@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-lyart-rntiilby1y.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-akhil-reddy-728890319)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akhilreddy007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilll0305)
@@ -38,6 +39,7 @@ akhil = {
                 ],
   "research"  : "Paper accepted — MMCITRE 2025 (ConsFormer)",
   "building"  : "Axon — agent decision observability",
+  "portfolio" : "portfolio-eight-lyart-rntiilby1y.vercel.app",
   "philosophy": "Shipping > Watching tutorials",
   "status"    : "🟢 Open to internships & collabs",
 }
@@ -277,6 +279,7 @@ Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Trans
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-lyart-rntiilby1y.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-akhil-reddy-728890319)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akhilreddy007@gmail.com)
 
