@@ -38,6 +38,7 @@ akhil = {
                   "RAG Pipelines & Retrieval",
                 ],
   "research"  : "Paper accepted — MMCITRE 2025 (ConsFormer)",
+  "shipped"   : "DocuSense — deployed RAG system, live on Modal",
   "building"  : "Axon — agent decision observability",
   "portfolio" : "portfolio-eight-lyart-rntiilby1y.vercel.app",
   "philosophy": "Shipping > Watching tutorials",
@@ -137,7 +138,19 @@ Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Trans
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
+
+**[📄 DocuSense — Research-Paper RAG System](https://github.com/akhilll0305/DocuSense)** 🟢 *[Live Demo](https://akhilll0305--docusense-web.modal.run)*
+
+Structure-aware RAG system that parses academic PDF metadata and sections, using them at query time. Hybrid retrieval (vector + BM25, RRF-fused) with cross-encoder reranking — evaluated on QASPER (80 papers, 259 questions), reranking improved MRR by 25.8% (p=0.0044). Every citation is verified against retrieved sources. Deployed on Modal's free tier.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 **[🔒 Axon — Agent Decision Observability](https://github.com/akhilll0305/Axon)**
 
@@ -161,6 +174,7 @@ Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Trans
 |:---|:---:|---:|
 | 🚦 **Multi-Agent DDQN Traffic Control** | Deep RL | **94.3%** wait time reduction vs fixed-time baseline |
 | 📐 **ConsFormer Floor Plan Generator** | Research | **100%** constraint satisfaction · Accepted MMCITRE 2025 |
+| 📄 **DocuSense — Research RAG** | LLM Systems | **+25.8%** MRR from reranking (p=0.0044), evaluated on QASPER · Live on Modal |
 | 💰 **LUMEN — Finance AI** | RAG + Agents | Sub-second semantic search over **1,000+** transactions |
 | 🎓 **StudyAI — Learning Platform** | Multimodal AI | Hybrid retrieval · **1,000+** document chunks per session |
 
@@ -248,8 +262,9 @@ Multi-agent Deep RL (Double DQN) across 2×2 intersection grid using SUMO. Trans
 ┌─────────────────────────────────────────────────────────┐
 │                   AKHIL'S DASHBOARD                     │
 ├──────────────────┬──────────────────────────────────────┤
-│ 📚 Learning      │ Agentic AI · MLOps · LLMOps          │
+│ 🚀 Shipped       │ DocuSense (live) · Portfolio (live)  │
 │ 🔨 Building      │ Axon — agent observability tooling   │
+│ 📚 Learning      │ DSA · System-adjacent skills as-needed│
 │ 🎯 Target        │ AI Engineer internship · Research    │
 │ 💡 Philosophy    │ Execute > Accumulate                  │
 └──────────────────┴──────────────────────────────────────┘
